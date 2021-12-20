@@ -654,25 +654,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Robin\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Materia-Gris\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Prueba Binsa\\_Binsa.Back\\BinsaAPI\\Binsa.API\\Binsa.API.csproj",
+      "projectUniqueName": "C:\\BINSA_ROB\\binsa.backend\\Binsa.API\\Binsa.API.csproj",
       "projectName": "Binsa.API",
-      "projectPath": "D:\\Prueba Binsa\\_Binsa.Back\\BinsaAPI\\Binsa.API\\Binsa.API.csproj",
-      "packagesPath": "C:\\Users\\Robin\\.nuget\\packages\\",
-      "outputPath": "D:\\Prueba Binsa\\_Binsa.Back\\BinsaAPI\\Binsa.API\\obj\\",
+      "projectPath": "C:\\BINSA_ROB\\binsa.backend\\Binsa.API\\Binsa.API.csproj",
+      "packagesPath": "C:\\Users\\Materia-Gris\\.nuget\\packages\\",
+      "outputPath": "C:\\BINSA_ROB\\binsa.backend\\Binsa.API\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Robin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Materia-Gris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -685,8 +680,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Prueba Binsa\\_Binsa.Back\\BinsaAPI\\BinsaEcommerce.DAL\\BinsaEcommerce.DAL.csproj": {
-              "projectPath": "D:\\Prueba Binsa\\_Binsa.Back\\BinsaAPI\\BinsaEcommerce.DAL\\BinsaEcommerce.DAL.csproj"
+            "C:\\BINSA_ROB\\binsa.backend\\BinsaEcommerce.DAL\\BinsaEcommerce.DAL.csproj": {
+              "projectPath": "C:\\BINSA_ROB\\binsa.backend\\BinsaEcommerce.DAL\\BinsaEcommerce.DAL.csproj"
             }
           }
         }
@@ -716,6 +711,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.12, 5.0.12]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -724,7 +737,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

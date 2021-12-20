@@ -1,9 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\Robin\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Robin\\.nuget\\packages",
-      "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
+      "C:\\Users\\Materia-Gris\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Materia-Gris\\.nuget\\packages"
     ]
   }
 }

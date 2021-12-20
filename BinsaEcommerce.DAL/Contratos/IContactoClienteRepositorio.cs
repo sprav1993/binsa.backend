@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BinsaEcommerce.DAL.Contratos
 {
-    public interface IContactoCliente:IRepositorioGenerico<ContactoCliente>
+    public interface IContactoClienteRepositorio: IRepositorioGenerico<ContactoCliente>
     {
         Task<ContactoCliente> GetContactoClienteID(int id);
         Task<List<ContactoCliente>> GetListadoContactoClientes();

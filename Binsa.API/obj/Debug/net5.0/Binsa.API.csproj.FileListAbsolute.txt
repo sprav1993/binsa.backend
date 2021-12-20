@@ -35,3 +35,40 @@ D:\Prueba Binsa\_Binsa.Back\BinsaAPI\Binsa.API\obj\Debug\net5.0\Binsa.API.dll
 D:\Prueba Binsa\_Binsa.Back\BinsaAPI\Binsa.API\obj\Debug\net5.0\ref\Binsa.API.dll
 D:\Prueba Binsa\_Binsa.Back\BinsaAPI\Binsa.API\obj\Debug\net5.0\Binsa.API.pdb
 D:\Prueba Binsa\_Binsa.Back\BinsaAPI\Binsa.API\obj\Debug\net5.0\Binsa.API.genruntimeconfig.cache
+C:\BINSA_ROB\binsa.backend\Binsa.API\obj\Debug\net5.0\Binsa.API.csproj.AssemblyReference.cache
+C:\BINSA_ROB\binsa.backend\Binsa.API\obj\Debug\net5.0\Binsa.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\BINSA_ROB\binsa.backend\Binsa.API\obj\Debug\net5.0\Binsa.API.AssemblyInfoInputs.cache
+C:\BINSA_ROB\binsa.backend\Binsa.API\obj\Debug\net5.0\Binsa.API.AssemblyInfo.cs
+C:\BINSA_ROB\binsa.backend\Binsa.API\obj\Debug\net5.0\Binsa.API.csproj.CoreCompileInputs.cache
+C:\BINSA_ROB\binsa.backend\Binsa.API\obj\Debug\net5.0\Binsa.API.MvcApplicationPartsAssemblyInfo.cs
+C:\BINSA_ROB\binsa.backend\Binsa.API\obj\Debug\net5.0\Binsa.API.MvcApplicationPartsAssemblyInfo.cache
+C:\BINSA_ROB\binsa.backend\Binsa.API\obj\Debug\net5.0\Binsa.API.dll
+C:\BINSA_ROB\binsa.backend\Binsa.API\obj\Debug\net5.0\ref\Binsa.API.dll
+C:\BINSA_ROB\binsa.backend\Binsa.API\obj\Debug\net5.0\Binsa.API.pdb
+C:\BINSA_ROB\binsa.backend\Binsa.API\bin\Debug\net5.0\appsettings.Development.json
+C:\BINSA_ROB\binsa.backend\Binsa.API\bin\Debug\net5.0\appsettings.json
+C:\BINSA_ROB\binsa.backend\Binsa.API\bin\Debug\net5.0\Binsa.API.StaticWebAssets.xml
+C:\BINSA_ROB\binsa.backend\Binsa.API\bin\Debug\net5.0\Binsa.API.exe
+C:\BINSA_ROB\binsa.backend\Binsa.API\bin\Debug\net5.0\Binsa.API.deps.json
+C:\BINSA_ROB\binsa.backend\Binsa.API\bin\Debug\net5.0\Binsa.API.runtimeconfig.json
+C:\BINSA_ROB\binsa.backend\Binsa.API\bin\Debug\net5.0\Binsa.API.runtimeconfig.dev.json
+C:\BINSA_ROB\binsa.backend\Binsa.API\bin\Debug\net5.0\Binsa.API.dll
+C:\BINSA_ROB\binsa.backend\Binsa.API\bin\Debug\net5.0\ref\Binsa.API.dll
+C:\BINSA_ROB\binsa.backend\Binsa.API\bin\Debug\net5.0\Binsa.API.pdb
+C:\BINSA_ROB\binsa.backend\Binsa.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\BINSA_ROB\binsa.backend\Binsa.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\BINSA_ROB\binsa.backend\Binsa.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\BINSA_ROB\binsa.backend\Binsa.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\BINSA_ROB\binsa.backend\Binsa.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\BINSA_ROB\binsa.backend\Binsa.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\BINSA_ROB\binsa.backend\Binsa.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\BINSA_ROB\binsa.backend\Binsa.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\BINSA_ROB\binsa.backend\Binsa.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\BINSA_ROB\binsa.backend\Binsa.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\BINSA_ROB\binsa.backend\Binsa.API\bin\Debug\net5.0\BinsaEcommerce.DAL.dll
+C:\BINSA_ROB\binsa.backend\Binsa.API\bin\Debug\net5.0\BinsaEcommerce.DAL.pdb
+C:\BINSA_ROB\binsa.backend\Binsa.API\obj\Debug\net5.0\scopedcss\bundle\Binsa.API.styles.css
+C:\BINSA_ROB\binsa.backend\Binsa.API\obj\Debug\net5.0\staticwebassets\Binsa.API.StaticWebAssets.Manifest.cache
+C:\BINSA_ROB\binsa.backend\Binsa.API\obj\Debug\net5.0\Binsa.API.RazorTargetAssemblyInfo.cache
+C:\BINSA_ROB\binsa.backend\Binsa.API\obj\Debug\net5.0\Binsa.API.csproj.CopyComplete
+C:\BINSA_ROB\binsa.backend\Binsa.API\obj\Debug\net5.0\Binsa.API.genruntimeconfig.cache

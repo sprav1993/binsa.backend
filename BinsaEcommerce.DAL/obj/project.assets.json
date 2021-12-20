@@ -454,25 +454,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Robin\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Materia-Gris\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Prueba Binsa\\_Binsa.Back\\BinsaAPI\\BinsaEcommerce.DAL\\BinsaEcommerce.DAL.csproj",
+      "projectUniqueName": "C:\\BINSA_ROB\\binsa.backend\\BinsaEcommerce.DAL\\BinsaEcommerce.DAL.csproj",
       "projectName": "BinsaEcommerce.DAL",
-      "projectPath": "D:\\Prueba Binsa\\_Binsa.Back\\BinsaAPI\\BinsaEcommerce.DAL\\BinsaEcommerce.DAL.csproj",
-      "packagesPath": "C:\\Users\\Robin\\.nuget\\packages\\",
-      "outputPath": "D:\\Prueba Binsa\\_Binsa.Back\\BinsaAPI\\BinsaEcommerce.DAL\\obj\\",
+      "projectPath": "C:\\BINSA_ROB\\binsa.backend\\BinsaEcommerce.DAL\\BinsaEcommerce.DAL.csproj",
+      "packagesPath": "C:\\Users\\Materia-Gris\\.nuget\\packages\\",
+      "outputPath": "C:\\BINSA_ROB\\binsa.backend\\BinsaEcommerce.DAL\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Robin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Materia-Gris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -512,12 +507,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -9,3 +9,14 @@ D:\Prueba Binsa\_Binsa.Back\BinsaAPI\BinsaEcommerce.DAL\obj\Debug\net5.0\BinsaEc
 D:\Prueba Binsa\_Binsa.Back\BinsaAPI\BinsaEcommerce.DAL\obj\Debug\net5.0\BinsaEcommerce.DAL.dll
 D:\Prueba Binsa\_Binsa.Back\BinsaAPI\BinsaEcommerce.DAL\obj\Debug\net5.0\ref\BinsaEcommerce.DAL.dll
 D:\Prueba Binsa\_Binsa.Back\BinsaAPI\BinsaEcommerce.DAL\obj\Debug\net5.0\BinsaEcommerce.DAL.pdb
+C:\BINSA_ROB\binsa.backend\BinsaEcommerce.DAL\bin\Debug\net5.0\BinsaEcommerce.DAL.deps.json
+C:\BINSA_ROB\binsa.backend\BinsaEcommerce.DAL\bin\Debug\net5.0\BinsaEcommerce.DAL.dll
+C:\BINSA_ROB\binsa.backend\BinsaEcommerce.DAL\bin\Debug\net5.0\ref\BinsaEcommerce.DAL.dll
+C:\BINSA_ROB\binsa.backend\BinsaEcommerce.DAL\bin\Debug\net5.0\BinsaEcommerce.DAL.pdb
+C:\BINSA_ROB\binsa.backend\BinsaEcommerce.DAL\obj\Debug\net5.0\BinsaEcommerce.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\BINSA_ROB\binsa.backend\BinsaEcommerce.DAL\obj\Debug\net5.0\BinsaEcommerce.DAL.AssemblyInfoInputs.cache
+C:\BINSA_ROB\binsa.backend\BinsaEcommerce.DAL\obj\Debug\net5.0\BinsaEcommerce.DAL.AssemblyInfo.cs
+C:\BINSA_ROB\binsa.backend\BinsaEcommerce.DAL\obj\Debug\net5.0\BinsaEcommerce.DAL.csproj.CoreCompileInputs.cache
+C:\BINSA_ROB\binsa.backend\BinsaEcommerce.DAL\obj\Debug\net5.0\BinsaEcommerce.DAL.dll
+C:\BINSA_ROB\binsa.backend\BinsaEcommerce.DAL\obj\Debug\net5.0\ref\BinsaEcommerce.DAL.dll
+C:\BINSA_ROB\binsa.backend\BinsaEcommerce.DAL\obj\Debug\net5.0\BinsaEcommerce.DAL.pdb
